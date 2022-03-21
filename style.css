@@ -1,0 +1,72 @@
+.perfil {
+    width: 1000px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+body {
+    margin: 0;
+    padding-top: 800px;
+}
+
+
+#bienvenida {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#4f7370 100%, #0af7e4 0%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+#info {
+
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+    font-family: Indie Flower;
+}
+
+.line {
+    height: 6px;
+    background-color: #301577;
+    width: 70px;
+    margin: 8px auto;
+}
+
+h1 {
+
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+#nombre {
+    font-size: 30px;
+    line-height: 1.2;
+   font-family: Indie Flower;
+    
+}
+
+.caja {
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: Indie Flower;
+}
